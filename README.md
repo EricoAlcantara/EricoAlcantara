@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @EricoAlcantara
 - 👀 I’m interested in programming and computer systems
 - 🌱 I’m currently learning C++, C# and Python
-- 💞️ I’m looking to collaborate on ...
 - 📫 Contact: ericoamq@gmail.com
